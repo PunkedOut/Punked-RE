@@ -1,5 +1,5 @@
 # Punked RE
-BETA v0.00
+BETA v1.00
 
 ## Overview
 
@@ -20,3 +20,5 @@ The project hasn't been fully released and this repository serves as a update lo
 
 * 0.00
     * Pre-Release
+* 1.00
+    * Release
