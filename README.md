@@ -29,6 +29,6 @@ _G.Key = "keyhere"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PunkedOut/Punked-RE/main/load.lua"))()
 ```
 
-## Games
+# Games
 
 * [Cheese Escapse [5777099015]](https://web.roblox.com/games/5777099015/Cheese-Escape-Horror)
