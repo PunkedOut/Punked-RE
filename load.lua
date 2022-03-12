@@ -1,6 +1,6 @@
 --[[
 _G.Key = "keyhere"
-loadstring(game:HttpGet(https://raw.githubusercontent/PunkedOut/Punked-RE/main/load.lua))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PunkedOut/Punked-RE/main/load.lua"))()
 ]]
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
